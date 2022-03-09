@@ -29,10 +29,10 @@
 				- 依設定的上限金額
 			- Use Case
 				- 應用程式有彈性的開始與結束時間
-				- Urgent need for large
+				- Urgent need additional computing capacity
 		- Dedicated
 			- Physical EC2 server
 			- Most expensive
 			- Use case
 				- software licenses 綁定在 hardware 上
-				- 客戶、法規需求
+				- compliance 客戶、法規需求
