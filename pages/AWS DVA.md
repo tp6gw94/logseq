@@ -7,7 +7,10 @@
 		- On demand
 			- Pay by the hour or second
 		- Reserved
-			- Reserved capacity for one or three. Get  up to 72%/hour discount.
+			- Reserved capacity for one or three
+			- Get  up to 72%/hour discount
 			- By region
 		- Spot
+			- Purchase unused capacity
+			- Get up to 90% discount
 			-
