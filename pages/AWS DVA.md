@@ -3,3 +3,5 @@
 	- Pay only for what you use - pay as you go
 	- No wasted capacity
 	- Grow and shrink when you need
+	- ### Pricing
+		-
