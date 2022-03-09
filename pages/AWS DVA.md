@@ -6,23 +6,23 @@
 	- ### Pricing
 		- On demand
 			- Pay by the hour or second
-			- Feature
-				- Flexible
+			- Use Case
 				- Short Term
 				- Unpredictable workload
-				- 突然有時需要
 				- 開發測試
+				- 突然有時需要
+			- Feature
+				- Flexible
 		- Reserved
 			- Reserved capacity for one or three
 			- Get  up to 72%/hour discount
 			- By region
-			- Use Case
-				- Predictable Usage, schedule
 			- Feature
-				-
 				- Pay upfront
 				- Specific capacity requirements
 				- 改變不同的 instance type 會改變 discount
+			- Use Case
+				- Predictable Usage, schedule
 		- Spot
 			- Purchase unused capacity
 			- Get up to 90% discount
