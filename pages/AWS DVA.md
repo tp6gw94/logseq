@@ -4,4 +4,7 @@
 	- No wasted capacity
 	- Grow and shrink when you need
 	- ### Pricing
-		-
+		- On demand
+			- Pay by the hour or second
+		- Reserved
+			- Reserved capacity for one or three.
