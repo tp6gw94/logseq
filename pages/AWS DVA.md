@@ -17,7 +17,7 @@
 			- Get  up to 72%/hour discount
 			- By region
 			- Feature
-				- Predictable
+				- Predictable Usage, schedule
 				- Pay upfront
 				- Specific capacity requirements
 				- 改變不同的 instance type 會改變 discount
