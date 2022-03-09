@@ -16,8 +16,10 @@
 			- Reserved capacity for one or three
 			- Get  up to 72%/hour discount
 			- By region
-			- Feature
+			- Use Case
 				- Predictable Usage, schedule
+			- Feature
+				-
 				- Pay upfront
 				- Specific capacity requirements
 				- 改變不同的 instance type 會改變 discount
@@ -27,6 +29,7 @@
 			- Price fluctuate
 				- 依使用
 				- 依設定的上限金額
+			- Use Case
 		- Dedicated
 			- Physical EC2 server
 			- Most expensive
