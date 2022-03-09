@@ -6,6 +6,9 @@
 	- ### Pricing
 		- On demand
 			- Pay by the hour or second
+			- Feature
+				- Flexible
+				- Short Term
 		- Reserved
 			- Reserved capacity for one or three
 			- Get  up to 72%/hour discount
