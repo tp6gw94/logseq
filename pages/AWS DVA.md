@@ -29,7 +29,7 @@
 				- 依設定的上限金額
 			- Use Case
 				- 應用程式有彈性的開始與結束時間
-				-
+				- Urgent need for large
 		- Dedicated
 			- Physical EC2 server
 			- Most expensive
