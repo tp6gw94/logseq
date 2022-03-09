@@ -1,0 +1,5 @@
+- EC2
+	- VM run on AWS
+	- Pay only for what you use - pay as you go
+	- No wasted capacity
+	-
