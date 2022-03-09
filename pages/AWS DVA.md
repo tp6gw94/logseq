@@ -13,6 +13,7 @@
 		- Spot
 			- Purchase unused capacity
 			- Get up to 90% discount
-			- 波動的價格
-				- 依 demand
-				-
+			- Price fluctuate
+				- 依使用
+				- 依設定的上限金額
+		-
