@@ -1,5 +1,5 @@
 - ## EC2
-	- > VM,  run on AWS
+	- > VM,  hosted in AWS
 	- Pay only for what you use - pay as you go
 	- No wasted capacity
-	-
+	- Grow and shrink when you need
