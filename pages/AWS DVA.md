@@ -18,7 +18,7 @@
 			- By region
 			- Feature
 				- Predictable
-				-
+				- Pay up front
 		- Spot
 			- Purchase unused capacity
 			- Get up to 90% discount
