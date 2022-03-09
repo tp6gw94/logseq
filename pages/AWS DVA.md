@@ -20,6 +20,7 @@
 				- Predictable
 				- Pay upfront
 				- Specific capacity requirements
+				- 改變不同的 instance type 會改變 discount
 		- Spot
 			- Purchase unused capacity
 			- Get up to 90% discount
