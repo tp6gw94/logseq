@@ -7,4 +7,5 @@
 		- On demand
 			- Pay by the hour or second
 		- Reserved
-			- Reserved capacity for one or three.
+			- Reserved capacity for one or three. Get  up to 72% discount.
+			-
