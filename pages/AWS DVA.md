@@ -6,21 +6,19 @@
 	- ### Pricing
 		- On demand
 			- Pay by the hour or second
+			- Flexible
 			- Use Case
 				- Short Term
 				- Unpredictable workload
 				- 開發測試
 				- 突然有時需要
-			- Feature
-				- Flexible
 		- Reserved
 			- Reserved capacity for one or three
 			- Get  up to 72%/hour discount
 			- By region
-			- Feature
-				- Pay upfront
-				- Specific capacity requirements
-				- 改變不同的 instance type 會改變 discount
+			- Pay upfront
+			- Specific capacity requirements
+			- 改變不同的 instance type 會改變 discount
 			- Use Case
 				- Predictable Usage, schedule
 		- Spot
@@ -30,6 +28,8 @@
 				- 依使用
 				- 依設定的上限金額
 			- Use Case
+				- 應用程式有彈性的開始與結束時間
+				-
 		- Dedicated
 			- Physical EC2 server
 			- Most expensive
