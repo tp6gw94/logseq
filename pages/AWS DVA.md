@@ -9,13 +9,16 @@
 			- Feature
 				- Flexible
 				- Short Term
-				- unpredictable workload
+				- Unpredictable workload
 				- 突然有時需要
 				- 測試市場
 		- Reserved
 			- Reserved capacity for one or three
 			- Get  up to 72%/hour discount
 			- By region
+			- Feature
+				- Predictable
+				-
 		- Spot
 			- Purchase unused capacity
 			- Get up to 90% discount
