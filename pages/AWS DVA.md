@@ -13,4 +13,6 @@
 		- Spot
 			- Purchase unused capacity
 			- Get up to 90% discount
-			-
+			- 波動的價格
+				- 依 demand
+				-
