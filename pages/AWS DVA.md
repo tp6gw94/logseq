@@ -18,4 +18,7 @@
 				- 依設定的上限金額
 		- Dedicated
 			- Physical EC2 server
-			-
+			- Most expensive
+			- Use case
+				- software licenses 綁定在 hardware 上
+				- 客戶、法規需求
