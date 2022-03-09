@@ -16,4 +16,6 @@
 			- Price fluctuate
 				- 依使用
 				- 依設定的上限金額
-		-
+		- Dedicated
+			- Physical EC2 server
+			-
