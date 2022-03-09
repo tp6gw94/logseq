@@ -11,7 +11,7 @@
 				- Short Term
 				- Unpredictable workload
 				- 突然有時需要
-				- 測試市場
+				- 開發測試
 		- Reserved
 			- Reserved capacity for one or three
 			- Get  up to 72%/hour discount
