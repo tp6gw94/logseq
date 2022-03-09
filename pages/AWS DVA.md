@@ -1,3 +1,5 @@
+public:: true
+
 - ## EC2
 	- > VM,  hosted in AWS
 	- Pay only for what you use - pay as you go
