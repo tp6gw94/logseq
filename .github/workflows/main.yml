@@ -35,7 +35,7 @@ jobs:
           path: logseq
       - name: Copy File
         run: |
-          cp ./logseq/db.json ./publish-tool/data.json
+          cp ./logseq/data.json ./publish-tool/data.json
           cp -R ./logseq/assets ./publish-tool
           ls ./publish-tool
       - name: Build
