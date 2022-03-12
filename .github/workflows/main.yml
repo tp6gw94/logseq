@@ -31,6 +31,4 @@ jobs:
           path: publish-tool
       - name: checkup
         run: |
-          pwd
-          ls
-          ls /publish-tool
+          cat db.json
