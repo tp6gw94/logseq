@@ -6,6 +6,7 @@ public:: true
 	- No wasted capacity
 	- Grow and shrink when you need
 	- ### Pricing
+	  collapsed:: true
 		- On demand
 			- Pay by the hour or second
 			- Flexible
@@ -38,3 +39,6 @@ public:: true
 			- Use case
 				- software licenses 綁定在 hardware 上
 				- compliance 客戶、法規需求
+	- ### Instance Type
+		-
+-
