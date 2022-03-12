@@ -31,6 +31,6 @@ jobs:
           path: publish-tool
       - name: checkup
         run: |
+          ls
           cat db.json
           cd publish-tool
-          ls
