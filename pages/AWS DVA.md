@@ -45,5 +45,5 @@ public:: true
 		- https://aws.amazon.com/tw/ec2/instance-types/
 		-
 	- ### EBS Volumes
-		- ![截圖 2022-03-12 下午12.25.06.png](../assets/截圖_2022-03-12_下午12.25.06_1647059109330_0.png)
+		-
 -
