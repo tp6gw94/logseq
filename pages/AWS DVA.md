@@ -40,7 +40,9 @@ public:: true
 				- software licenses 綁定在 hardware 上
 				- compliance 客戶、法規需求
 	- ### Instance Type
+	  collapsed:: true
 		- > EC 2 執行環境的規格，包刮記憶體、CPU 等
 		- https://aws.amazon.com/tw/ec2/instance-types/
 		-
--
+	- ### EBS Volumes
+		-
