@@ -41,6 +41,6 @@ jobs:
       - name: Build
         run: |
           cd ./publish-tool
-          yarn
+          yarn install --frozen-lockfile
           yarn export
           ls ./out
