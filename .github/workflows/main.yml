@@ -29,8 +29,10 @@ jobs:
         with:
           repository: logseq/publish
           path: publish-tool
-      - name: checkup
+      - name: Get Data
+        uses: actions/checkout@v3
+        with:
+          path: logseq
+      - name: Checkup
         run: |
-          cat db.json
-          cd publish-tool
           ls
