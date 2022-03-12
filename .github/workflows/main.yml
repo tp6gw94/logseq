@@ -32,3 +32,5 @@ jobs:
       - name: checkup
         run: |
           cat db.json
+          cd publish-tool
+          ls
