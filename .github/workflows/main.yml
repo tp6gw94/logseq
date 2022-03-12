@@ -35,4 +35,6 @@ jobs:
           path: logseq
       - name: Checkup
         run: |
-          ls
+          cp ./logseq/db.json ./publish-tool/data.json
+          cp -R ./logseq/assets ./publish-tool
+          ls ./publish-tool
