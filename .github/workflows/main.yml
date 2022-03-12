@@ -30,7 +30,7 @@ jobs:
           repository: logseq/publish
           path: publish-tool
       - name: Get Data
-        uses: actions/checkout@3
+        uses: actions/checkout@v3
         with:
           path: logseq
       - name: Checkup
