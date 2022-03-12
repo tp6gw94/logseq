@@ -25,8 +25,12 @@ jobs:
         with:
           node-version: '14.x'
       - name: Clone logseq/publish
-        uses: actions/checkout@master
+        uses: actions/checkout@v3
         with:
           repository: logseq/publish
-      - name: Check
-        run: ls
+          path: publish-tool
+      - name: checkup
+        run: |
+          cwd
+          ls
+          ls /publish-tool
